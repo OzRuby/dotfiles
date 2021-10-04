@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = diemeidriss@yahoo.fr
+	name = Idriss Dieme
